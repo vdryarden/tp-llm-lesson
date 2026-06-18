@@ -18,12 +18,18 @@ Use `tan ni la` (because of this) and `la` clauses to restructure.
 
 ## Likes and dislikes — pona/ike tawa mi (not olin/pilin ike)
 
-- **Like**: `Y li pona tawa X` — X likes Y
-- **Dislike**: `Y li ike tawa X` — X dislikes Y / dislikes
-- **Love (things, seasons)**: `tenpo seli li pona mute tawa mi` — I love summer
-- **`olin`** = deep personal love for people only, not things or seasons
-- **`pilin ike`** = feel bad emotionally, NOT "dislike"
-- Dislike question: `seme li ike tawa sina?` — What don't you like?
+Structure: **[liked thing] li pona tawa [liker]** — the thing liked is the SUBJECT.
+
+- "I like you" → `sina li pona tawa mi.` (NOT `mi pona tawa sina` — that means "I am good to you")
+- "I like summer" → `tenpo seli li pona mute tawa mi.`
+- "I dislike this" → `ni li ike tawa mi.`
+- "What don't you like?" → `seme li ike tawa sina?`
+
+**`olin`** = deep personal love for people only, never for things or seasons.
+**`pilin ike`** = feel emotionally bad, NOT "dislike".
+
+Also note: `X li pini tawa mi` = X is finished/settled for me (done, concluded).
+This is different from `X li pona tawa mi` = I like X / X is good to me.
 
 ---
 
