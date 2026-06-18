@@ -16,13 +16,6 @@ Use `tan ni la` (because of this) and `la` clauses to restructure.
 
 ---
 
-## Taste — pilin uta
-
-- `pan suwi ni li jo e pilin uta suwi.` — This cake has a sweet taste.
-- `pilin uta` = mouth-feeling = taste.
-
----
-
 ## Fear — pilin monsuta (not pilin ike)
 
 `monsuta` (fear/monster, extended vocab) is standard community usage:
@@ -39,19 +32,6 @@ Use `tan ni la` (because of this) and `la` clauses to restructure.
 
 ---
 
-## "Breathe" — kepeken kon
-
-- `jan Ton li kepeken kon.` — Tom breathes. (use air)
-
----
-
-## "Miss someone" — pilin e weka
-
-- `mi pilin mute e weka ona.` — I miss her so much. (feel the absence)
-- NOT `mi wile e ona mute` (= I want her a lot, different meaning).
-
----
-
 ## Food vocabulary — specific beats generic
 
 | English | generic (avoid) | specific (prefer) |
@@ -59,13 +39,6 @@ Use `tan ni la` (because of this) and `la` clauses to restructure.
 | cake | moku suwi | pan suwi |
 | ice cream | moku lete | suwi lete |
 | apple | kili loje | kili sike loje |
-
----
-
-## "Smell bad" — pana e kon jaki
-
-- `ko li pimeja li pana e kon jaki.` — The slime was black and foul-smelling.
-- `pana e kon pona` = smell good.
 
 ---
 
