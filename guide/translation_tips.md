@@ -16,15 +16,6 @@ Use `tan ni la` (because of this) and `la` clauses to restructure.
 
 ---
 
-## kama + verb = change of state (not future tense)
-
-`kama` marks a **transition into a state**, NOT future tense.
-For statements about the future, use the bare verb:
-- `jan ale li moli` — Everyone will die. (bare verb, tense-free)
-- `jan ale li kama moli` — Everyone is dying / everyone comes to die. (active transition)
-
----
-
 ## Reflexive — ona sama
 
 - `ona li lukin e ona sama lon jasima.` — He is looking at himself in the mirror.
@@ -52,21 +43,6 @@ Toki pona has no passive. Make the agent the subject:
 
 - `pan suwi ni li jo e pilin uta suwi.` — This cake has a sweet taste.
 - `pilin uta` = mouth-feeling = taste.
-
----
-
-## "In [language]" — lon toki
-
-- `lipu ni li lon toki Kanse.` — This article is in French.
-- For "something exists/is written in a language", use `lon toki [name]`.
-
----
-
-## Address word — noun + o (not o + noun)
-
-- `sina o!` — Hey, you! (NOT `o sina!`)
-- `jan Ton o!` — Hey, Tom!
-- `o [verb]` = command; `[noun] o` = address/call to.
 
 ---
 
