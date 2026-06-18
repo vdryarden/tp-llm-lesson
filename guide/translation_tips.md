@@ -16,15 +16,6 @@ Use `tan ni la` (because of this) and `la` clauses to restructure.
 
 ---
 
-## Passive voice — flip to active
-
-Toki pona has no passive. Make the agent the subject:
-- "Steve was loved by all" → `jan ali li olin e jan Siwe.`
-- "The house was built" → `jan li pali e tomo.`
-- Unknown agent: use `jan` (people/someone) as subject.
-
----
-
 ## Taste — pilin uta
 
 - `pan suwi ni li jo e pilin uta suwi.` — This cake has a sweet taste.
@@ -82,13 +73,6 @@ Toki pona has no passive. Make the agent the subject:
 
 - `mi pakala.` — I messed up / I'm sorry.
 - `o weka e ike mi.` — Forgive me. (remove the bad from me)
-
----
-
-## "I don't care" — ni li sama tawa mi
-
-- `ni li sama tawa mi.` — I don't care. (this is the same to me)
-- NOT `mi pilin ala` (= I feel nothing, emotional numbness).
 
 ---
 
