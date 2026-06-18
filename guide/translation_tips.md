@@ -16,39 +16,12 @@ Use `tan ni la` (because of this) and `la` clauses to restructure.
 
 ---
 
-## Likes and dislikes — pona/ike tawa mi (not olin/pilin ike)
-
-Structure: **[liked thing] li pona tawa [liker]** — the thing liked is the SUBJECT.
-
-- "I like you" → `sina li pona tawa mi.` (NOT `mi pona tawa sina` — that means "I am good to you")
-- "I like summer" → `tenpo seli li pona mute tawa mi.`
-- "I dislike this" → `ni li ike tawa mi.`
-- "What don't you like?" → `seme li ike tawa sina?`
-
-**`olin`** = deep personal love for people only, never for things or seasons.
-**`pilin ike`** = feel emotionally bad, NOT "dislike".
-
-Also note: `X li pini tawa mi` = X is finished/settled for me (done, concluded).
-This is different from `X li pona tawa mi` = I like X / X is good to me.
-
----
-
 ## kama + verb = change of state (not future tense)
 
-`kama` before a verb marks a **transition into a state**, NOT future tense:
-
-| English | toki pona |
-|---------|-----------|
-| fall asleep | kama lape |
-| receive / get | kama jo |
-| become happy | kama pilin pona |
-| learn | kama sona |
-| arrive | kama lon |
-| fade / dim | kama lili |
-
-- `jan ale li moli` — Everyone will die. (no kama — just tense-free statement)
-- `jan ale li kama moli` — Everyone is dying. (active transition happening now)
-- Only use `kama` when there is genuine state change.
+`kama` marks a **transition into a state**, NOT future tense.
+For statements about the future, use the bare verb:
+- `jan ale li moli` — Everyone will die. (bare verb, tense-free)
+- `jan ale li kama moli` — Everyone is dying / everyone comes to die. (active transition)
 
 ---
 

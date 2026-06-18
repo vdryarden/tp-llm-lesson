@@ -6,7 +6,7 @@ from pathlib import Path
 from sample_pairs import get_valid_sample
 
 API_KEY = (Path(__file__).parent / "api_key").read_text().strip()
-MODEL = "deepseek/deepseek-v4-flash"
+MODEL = "deepseek/deepseek-v4-pro"
 URL = "https://openrouter.ai/api/v1/chat/completions"
 GUIDE_DIR = Path(__file__).parent / "guide"
 
