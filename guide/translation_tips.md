@@ -174,15 +174,17 @@ Both are correct; the `la`-restructured form is preferred in fluent toki pona.
 
 ## Standing / posture verbs
 
-Body postures don't have dedicated verbs; use location words:
+Body postures don't have dedicated verbs; use location words or body-part verbs:
 
-| English       | toki pona                   |
-|---------------|-----------------------------|
-| stand         | lon sinpin (be at the front/upright) |
-| sit           | lon anpa (be low/down)      |
-| lie down      | lon lape (be in rest position) |
+| English       | toki pona                          |
+|---------------|------------------------------------|
+| stand         | lon sinpin (be upright/facing forward) |
+| sit down      | anpa e monsi (lower one's rear)    |
+| sit (already) | lon anpa (be low/down)             |
+| lie down      | lon lape (be in rest position)     |
 
-> mi mute li lon sinpin. — We stand. (lit. "We are upright/forward")
+> ona meli li anpa e monsi lon poka mi. — She sat down next to me.
+> mi mute li lon sinpin. — We stand.
 
 ---
 
@@ -205,3 +207,83 @@ The second asks about the quality (`pona`) of the thing, which is the intent of 
 - `kute ike e toki mi` — heard my words badly (wrong perception/reception)
 
 `kute ike` (hear badly) is often more idiomatic for general misunderstandings in conversation.
+
+---
+
+## "Too [adjective]" — use pi mute ike
+
+"Too X" (excess) is expressed as `X pi mute ike` (X of bad quantity):
+
+> pan ni li suwi pi mute ike tawa mi. — This cake is too sweet for me.
+> tomo ni li suli pi mute ike. — This house is too big.
+
+Do NOT use `X mute` alone — that means "very X", not "excessively X".
+
+---
+
+## Taste — pilin uta
+
+Taste as a sensation is expressed as `pilin uta` (mouth-feeling):
+
+> pan suwi ni li jo e pilin uta suwi. — This cake has a sweet taste.
+> pilin uta pi moku ni li ike. — This food tastes bad.
+
+Using `[food] li suwi` only says "the food is sweet" (as a property), not "tastes sweet".
+
+---
+
+## Preferences and enjoyment — restructure with la
+
+When English says "I like doing X" or "I enjoy X", restructure using `la`:
+
+> mi lape lon anpa pi mun la ni li pona mute tawa mi.
+> — I really like sleeping under the stars.
+> (lit. "I sleep under the stars, and that is very good to me.")
+
+Pattern: `[do the thing] la ni li pona tawa mi` is more natural than `mi olin e [doing the thing]`.
+
+---
+
+## "I don't care" / indifference — ni li sama tawa mi
+
+The English "I don't care" is NOT `mi pilin ala` (I don't feel). Use:
+
+> ni li sama tawa mi. — I don't care. (lit. "This is the same to me.")
+
+Variants:
+> ni li sama kin tawa mi. — This is all the same to me (I really don't care).
+> ijo ni li suli ala tawa mi. — This thing doesn't matter to me.
+
+---
+
+## "Interested in" — pona tawa sona
+
+Intellectual interest (being engaged with a topic mentally) uses `pona tawa sona`:
+
+> kalama musi li pona tawa sona ona. — He is interested in music. (lit. "Music is good to his knowledge/mind.")
+
+This differs from simple liking (`pona tawa mi`) by adding `sona` to specify mental/intellectual engagement.
+
+---
+
+## Avoid non-dictionary words
+
+Only use words that appear in the official toki pona vocabulary. Do not invent or import
+words like `meso` (mediocre), `akesi` used as "shocked", or other non-standard usages.
+
+When no single word fits, describe the concept:
+- mediocre → `pona lili` or `ike lili` (a little good / a little bad)
+- shocked → `pilin pakala` (feel broken) or `pilin nasa` (feel strange/stunned)
+- disgusted → `pilin jaki` (feel dirty/gross)
+
+---
+
+## Describing places by function, not just attribute
+
+A shop described by its price range: don't just call it `esun pi mani lili`
+(store of little money). Instead describe what it *does*:
+
+> esun ni li pana e ijo pi mani lili. — This is a cheap shop. (lit. "This store gives things of little money.")
+
+Similarly for other places:
+> tomo ni li pana e telo nasa. — This is a bar. (lit. "This place gives intoxicating water.")
