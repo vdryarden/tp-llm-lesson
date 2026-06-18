@@ -295,14 +295,22 @@ Similarly for other places:
 
 ---
 
-## "It seems / it appears" — lukin la
+## "It seems / it appears" — lukin la vs pona lukin
 
-Use `lukin la` (lit. "in the context of seeing / visually") to express "it seems", "apparently", "it looks like":
+These two are NOT interchangeable:
 
+**`pona lukin`** — X looks good (visual appearance is a property of X):
+> ona li pona lukin. — It/she looks beautiful. (appearance property)
+> tomo ni li suli lukin. — This house looks big.
+
+**`lukin la`** — it seems / apparently / from observation (uncertainty marker on a whole claim):
 > lukin la jan Ton li wile tawa. — It seems Tom wants to go.
-> lukin la ni li pona. — This seems good.
+> lukin la ni li ike. — This seems bad (but I'm not sure).
 
-Do NOT use `ni li lukin pona` or paraphrase with `pilin` for "seems" — `lukin la` is the standard form.
+Rule: if you can replace "looks" with "appears to be" + uncertain claim → `lukin la [sentence]`.
+If "looks" means the thing's visual appearance → `[adjective] lukin` after the verb.
+
+Do NOT use `lukin la` for physical appearance ("she looks beautiful" = `ona li pona lukin`, NOT `lukin la ona li pona`).
 
 ---
 
@@ -359,3 +367,63 @@ Toki pona has no passive voice. Flip English passives to active by making the ag
 > jan li pali e tomo. — The house was built. (lit. "People built the house.")
 
 When the agent is unknown or general, use `jan` (people/someone) as the subject.
+
+---
+
+## "Arrive at / come to be at" — kama lon
+
+For arriving somewhere or coming to be at a location, use `kama lon` (come to exist at):
+
+> mi kama lon tomo. — We came home. / I arrived home.
+> jan Ton li kama lon tomo sona. — Tom arrived at school.
+
+`kama tawa tomo` (move toward home) implies the journey; `kama lon tomo` implies the arrival.
+For most English "came home / arrived" uses, `kama lon` matches the dataset better.
+
+---
+
+## "Poetry / art speech" — toki musi
+
+The toki pona word for poetry, lyrical speech, or artistic expression is `toki musi`
+(playful/amusing speech), NOT `toki pona` (which means "good speech" or the language itself):
+
+> ona li jan pi toki musi. — He is a poet.
+> mi musi kepeken toki. — I play with words / I make verbal art.
+
+`toki pona` in a noun phrase means either "the toki pona language" or "good speech" — never "poetry".
+
+---
+
+## "Smell bad / foul-smelling" — pana e kon jaki
+
+To express that something smells bad, use `pana e kon jaki` (emit foul air):
+
+> ko li pimeja li pana e kon jaki. — The slime was black and foul-smelling.
+> kasi ni li pana e kon pona. — This flower smells good.
+
+`kon` (air/atmosphere/spirit) carries the scent; `pana e kon` means "emit a smell".
+
+---
+
+## Apologies — mi pakala / o weka e ike mi
+
+The English "I'm sorry" has two common toki pona forms:
+
+- `mi pakala` — I messed up / I made an error (focus on the mistake)
+- `o weka e ike mi` — remove the bad from me / forgive me (requesting forgiveness)
+- `mi pilin ike tan ni` — I feel bad because of this (emotional expression of remorse)
+
+> o weka e ike mi. mi kute ala. — Forgive me, I didn't hear.
+> mi pakala. mi sona ala e ni. — Sorry, I didn't know that.
+
+---
+
+## "Not interested / doesn't care about" — wile ala / ike tawa
+
+"Not interested in X" is expressed as X being bad/unwanted from their perspective:
+
+> ona li wile ala e ni. — She's not interested in this. (doesn't want it)
+> ni li ike tawa ona. — She's not interested. (it's bad from her view)
+> ni li sama tawa ona. — She doesn't care. (it's all the same to her)
+
+Do NOT use `pilin ala` (feel nothing) for "not interested" — that means feeling emotionally numb.
