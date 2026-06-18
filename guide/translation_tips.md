@@ -25,34 +25,10 @@ For statements about the future, use the bare verb:
 
 ---
 
-## "It seems" — lukin la vs pona lukin (these are different)
-
-- **`pona lukin`** = visual appearance is a property of X: `ona li pona lukin.` (She looks beautiful.)
-- **`lukin la`** = uncertain/reported observation: `lukin la jan Ton li wile tawa.` (It seems Tom wants to go.)
-
-Rule: if "looks" = visual appearance → `[adj] lukin`. If "seems" = uncertainty → `lukin la [sentence]`.
-Do NOT use `lukin la` for physical appearance.
-
----
-
 ## Reflexive — ona sama
 
 - `ona li lukin e ona sama lon jasima.` — He is looking at himself in the mirror.
 - `mi pona e mi sama.` — I improve myself.
-
----
-
-## Gender disambiguation — ona meli / ona mije (only when ambiguous)
-
-`ona` is gender-neutral. **Only** use `ona meli` / `ona mije` when multiple people
-of different genders appear in the same sentence and pronouns would be ambiguous:
-
-- `tenpo pini la mije ni li olin e meli ni.` — He used to love her. (two people, disambiguate both)
-- `meli sama ona li tawa.` — Her sister went.
-- `ona li kama sin lon ni.` — She came here again. (one person, `ona` is enough)
-
-Use `mije sama` / `meli sama` for brother / sister. Do NOT add `meli`/`mije` to `ona`
-when there is only one person in the sentence.
 
 ---
 
