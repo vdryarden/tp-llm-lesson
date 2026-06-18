@@ -16,20 +16,6 @@ Use `tan ni la` (because of this) and `la` clauses to restructure.
 
 ---
 
-## Reflexive — ona sama
-
-- `ona li lukin e ona sama lon jasima.` — He is looking at himself in the mirror.
-- `mi pona e mi sama.` — I improve myself.
-
----
-
-## "Nothing / zero" — ala as standalone noun
-
-`ala` can stand alone: `ona li lukin e ala.` — They saw nothing.
-NOT `ona li lukin e ijo ala` (ijo ala = "no thing" with emphasis on thing).
-
----
-
 ## Passive voice — flip to active
 
 Toki pona has no passive. Make the agent the subject:
