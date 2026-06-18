@@ -123,11 +123,14 @@ Toki pona has no passive. Make the agent the subject:
 
 ---
 
-## Sitting down — anpa e monsi
+## Sitting down — anpa e monsi vs kepeken supa
 
-- `ona meli li anpa e monsi lon poka mi.` — She sat down next to me.
-- `anpa e monsi` = lower one's rear = sit down.
-- `lon anpa` = already sitting / positioned low.
+- **Action** (sitting down): `ona li anpa e monsi lon poka mi.` — She sat down next to me.
+- **State** (already seated in a chair): `mi kepeken supa monsi.` — I am sitting in the armchair.
+- **State** (positioned low): `mi lon anpa.` — I am seated/low.
+
+`anpa e monsi` = the act of lowering yourself down (transition).
+`kepeken supa [X]` = using/occupying a seat (state of sitting in something).
 
 ---
 
