@@ -55,13 +55,6 @@ Toki pona has no passive. Make the agent the subject:
 
 ---
 
-## "Arrive at" — kama lon (not kama tawa)
-
-- `mi kama lon tomo.` — We arrived home. (at the place)
-- `kama tawa tomo` implies the journey; `kama lon tomo` implies arrival.
-
----
-
 ## "In [language]" — lon toki
 
 - `lipu ni li lon toki Kanse.` — This article is in French.
