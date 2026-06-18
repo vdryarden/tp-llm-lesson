@@ -427,3 +427,56 @@ The English "I'm sorry" has two common toki pona forms:
 > ni li sama tawa ona. — She doesn't care. (it's all the same to her)
 
 Do NOT use `pilin ala` (feel nothing) for "not interested" — that means feeling emotionally numb.
+
+---
+
+## "Miss someone" — pilin e weka
+
+To express missing someone (feeling their absence), use `pilin e weka [person]`
+(feel the absence of them):
+
+> mi pilin mute e weka ona. — I miss her/him so much.
+> mi pilin e weka sina. — I miss you.
+
+Do NOT use `mi wile e ona mute` (I want them a lot) — that means desire, not longing from absence.
+`pilin ike mute tan ni: ona li weka` is also acceptable but more verbose.
+
+---
+
+## Food vocabulary — specific is better than generic
+
+Use precise food words rather than `moku [adjective]` alone:
+
+| English         | generic (avoid)     | specific (prefer)        |
+|-----------------|---------------------|--------------------------|
+| cake / pastry   | moku suwi           | pan suwi (sweet bread)   |
+| ice cream       | moku lete           | suwi lete (cold sweet)   |
+| cookie          | moku suwi lili      | sike lili pi suwi pan    |
+| rice            | moku walo           | pan (grain/bread covers rice) |
+| soup            | moku telo           | moku pi telo wawa        |
+
+> mi wile e pan suwi. — I want some cake.
+> mi seli e pan. — I baked bread/rice.
+
+---
+
+## "Fade / diminish / grow less" — kama lili
+
+Use `kama lili` (become small/less) for fading, dimming, or diminishing:
+
+> suno li kama lili. — The light faded.
+> kalama li kama lili. — The sound faded.
+> pilin mi li kama lili. — My feeling faded / I stopped caring.
+
+Contrasts with `kama suli` (grow, increase, become bigger).
+
+---
+
+## Cutting tools — ilo kipisi
+
+The word `kipisi` (from extended vocabulary, lipu ku) means to cut/divide. A knife is `ilo kipisi` (cutting tool):
+
+> ilo kipisi mi li weka. — My knife is gone.
+> o kepeken ilo kipisi e kasi ni. — Cut this plant with a knife.
+
+Alternatives using core vocab: `ilo pi kipisi ijo` or simply `palisa ike` — but `ilo kipisi` is the standard community usage.
