@@ -16,22 +16,6 @@ Use `tan ni la` (because of this) and `la` clauses to restructure.
 
 ---
 
-## Fear — pilin monsuta (not pilin ike)
-
-`monsuta` (fear/monster, extended vocab) is standard community usage:
-- `mi pilin monsuta.` — I am afraid.
-- `mi pilin monsuta tawa X.` — I am afraid of X.
-- Do NOT replace with generic `pilin ike` (that = feel bad).
-
----
-
-## "Cover / hide" — len as verb
-
-`len` (cloth/layer) as a verb = to cover, hide:
-- `olin li len e pakala ale.` — Love covers all offenses.
-
----
-
 ## Food vocabulary — specific beats generic
 
 | English | generic (avoid) | specific (prefer) |
@@ -39,13 +23,6 @@ Use `tan ni la` (because of this) and `la` clauses to restructure.
 | cake | moku suwi | pan suwi |
 | ice cream | moku lete | suwi lete |
 | apple | kili loje | kili sike loje |
-
----
-
-## Apologies
-
-- `mi pakala.` — I messed up / I'm sorry.
-- `o weka e ike mi.` — Forgive me. (remove the bad from me)
 
 ---
 
@@ -59,19 +36,6 @@ Intellectual interest: `X li pona tawa sona ona.` (X is good to his mind/knowled
 
 - `ona li jan pi toki musi.` — He is a poet.
 - Do NOT use `toki pona` for poetry — that means "good speech" or the language itself.
-
----
-
-## Cutting tools — ilo kipisi
-
-`kipisi` (extended vocab, lipu ku) = cut/divide. A knife is `ilo kipisi`.
-
----
-
-## Kama lili = fade/diminish
-
-- `suno li kama lili.` — The light faded.
-- `kalama li kama lili.` — The sound faded away.
 
 ---
 
