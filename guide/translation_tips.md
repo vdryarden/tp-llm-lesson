@@ -32,16 +32,6 @@ For statements about the future, use the bare verb:
 
 ---
 
-## Proper names — quick phonetic rules
-
-Adapt by pronunciation, not spelling. Use `jan [Name]` for people:
-- Tom → `jan Ton` (final m → n; drop or nasalize)
-- John → `jan San` (j/ch/sh → s)
-- Mary → `jan Mewi` (avoid clash with `meli`)
-- Robert → `jan Lope` (r/l → l; drop final consonant)
-
----
-
 ## "Nothing / zero" — ala as standalone noun
 
 `ala` can stand alone: `ona li lukin e ala.` — They saw nothing.
@@ -55,13 +45,6 @@ Toki pona has no passive. Make the agent the subject:
 - "Steve was loved by all" → `jan ali li olin e jan Siwe.`
 - "The house was built" → `jan li pali e tomo.`
 - Unknown agent: use `jan` (people/someone) as subject.
-
----
-
-## "Too [adjective]" — pi mute ike
-
-- `pan suwi ni li suwi pi mute ike tawa mi.` — This cake is too sweet for me.
-- `X mute` alone = very X, NOT too X.
 
 ---
 
