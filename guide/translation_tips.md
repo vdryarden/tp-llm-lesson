@@ -55,16 +55,21 @@ Examples:
 
 ---
 
-## Expressing "X likes Y" — use tawa
+## Expressing "X likes Y" and "X dislikes Y" — use tawa
 
-The idiomatic way to say someone likes something is:
+The idiomatic way to say someone likes or dislikes something is:
 
 > Y li pona tawa X. — X likes Y. (lit. "Y is good from X's perspective")
+> Y li ike tawa X. — X dislikes Y. (lit. "Y is bad from X's perspective")
 
-> pan li pona mute tawa ona. — He really likes bread. ("He's a bread junkie.")
+> pan li pona mute tawa ona. — He really likes bread.
 > moku seme li pona tawa sina? — What food do you like?
+> seme li ike tawa sina? — What don't you like?
+> tenpo seli li pona mute tawa mi. — I love summer.
 
-Avoid the literal `ona li olin e pan` ("he loves bread") unless you mean emotional attachment.
+**Always prefer `pona/ike tawa mi` over `mi olin/ike e X`** for liking/disliking things.
+`olin` is reserved for deep personal love (people, not things or seasons).
+`pilin ike` means "feel bad" (emotionally), not "dislike".
 
 ---
 
@@ -287,3 +292,70 @@ A shop described by its price range: don't just call it `esun pi mani lili`
 
 Similarly for other places:
 > tomo ni li pana e telo nasa. — This is a bar. (lit. "This place gives intoxicating water.")
+
+---
+
+## "It seems / it appears" — lukin la
+
+Use `lukin la` (lit. "in the context of seeing / visually") to express "it seems", "apparently", "it looks like":
+
+> lukin la jan Ton li wile tawa. — It seems Tom wants to go.
+> lukin la ni li pona. — This seems good.
+
+Do NOT use `ni li lukin pona` or paraphrase with `pilin` for "seems" — `lukin la` is the standard form.
+
+---
+
+## "Nothing / zero" — ala as a standalone noun
+
+`ala` can stand alone as a noun meaning "nothing", "zero", or "none":
+
+> ona li lukin e ala. — They saw nothing. (NOT `ona li lukin e ijo ala`)
+> tenpo ale la ala li lon. — Nothing exists forever. / Nothing lasts forever.
+
+`ijo ala` means "no thing" with emphasis on the thing; bare `ala` is more idiomatic for "nothing" as a concept.
+
+---
+
+## "Cover / hide" — len as a verb
+
+`len` (cloth, layer, privacy) used as a verb means "to cover", "to hide", "to protect with a layer":
+
+> olin li len e pakala ale. — Love covers all offenses.
+> len e ona! — Hide it!
+
+This extends naturally from `len` as "clothes" — clothing covers the body.
+
+---
+
+## "Breathe" — kepeken kon
+
+The most common expression for breathing is `kepeken kon` (use air):
+
+> jan Ton li kepeken kon. — Tom breathes.
+> mi ken ala kepeken kon lon tomo ni. — I can't breathe in this room.
+
+`kon` alone can mean "breathe" as a verb in some styles, but `kepeken kon` is clearer.
+
+---
+
+## Fear words — monsuta is valid vocabulary
+
+The word `monsuta` (fear, monster) appears in the extended toki pona vocabulary (lipu ku) and is widely used in the community. It is acceptable to use it:
+
+> mi pilin monsuta. — I am afraid.
+> mi pilin monsuta tawa jan pi pilin monsuta. — I am afraid of people who are scared.
+> monsuta li lon ala. — There is nothing to fear.
+
+Do NOT replace `monsuta` with generic `pilin ike` — that only means "feel bad", not "feel fear".
+
+---
+
+## Passive voice — flip to active with "jan ale" or context subject
+
+Toki pona has no passive voice. Flip English passives to active by making the agent the subject:
+
+> jan ali li olin e jan Siwe. — Steve was loved by all. (lit. "Everyone loved Steve.")
+> jan li pali e tomo. — The house was built. (lit. "People built the house.")
+
+When the agent is unknown or general, use `jan` (people/someone) as the subject.
