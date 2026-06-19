@@ -3,6 +3,7 @@ import re
 import sys
 import requests
 from pathlib import Path
+from nltk.translate.bleu_score import sentence_bleu, SmoothingFunction
 from sample_pairs import get_valid_sample
 
 API_KEY = (Path(__file__).parent / "api_key").read_text().strip()
@@ -43,11 +44,15 @@ def translate_batch(sentences, system):
     return resp.json()["choices"][0]["message"]["content"]
 
 def score_pair(model_tok, ref_tok):
-    a = set(re.findall(r"[a-z]+", model_tok.lower()))
-    b = set(re.findall(r"[a-z]+", ref_tok.lower()))
-    if not a and not b:
+    hyp = re.findall(r"[a-z]+", model_tok.lower())
+    ref = re.findall(r"[a-z]+", ref_tok.lower())
+    if not hyp and not ref:
         return 1.0
-    return len(a & b) / len(a | b)
+    if not hyp or not ref:
+        return 0.0
+    smoothie = SmoothingFunction().method4
+    return sentence_bleu([ref], hyp, weights=(0.5, 0.5, 0, 0),
+                         smoothing_function=smoothie)
 
 def parse_translations(text, n):
     if not text:
@@ -83,4 +88,4 @@ for i, (en, ref_tok) in enumerate(pairs):
     print(f"score:    {sc:.2f}")
     print()
 
-print(f"mean score: {sum(scores)/len(scores):.3f}  (token Jaccard over {len(scores)} sentences)")
+print(f"mean score: {sum(scores)/len(scores):.3f}  (BLEU-2 over {len(scores)} sentences)")
