@@ -42,6 +42,13 @@ def translate_batch(sentences, system):
     resp.raise_for_status()
     return resp.json()["choices"][0]["message"]["content"]
 
+def score_pair(model_tok, ref_tok):
+    a = set(re.findall(r"[a-z]+", model_tok.lower()))
+    b = set(re.findall(r"[a-z]+", ref_tok.lower()))
+    if not a and not b:
+        return 1.0
+    return len(a & b) / len(a | b)
+
 def parse_translations(text, n):
     if not text:
         print(f"Warning: empty response from model", file=sys.stderr)
@@ -65,9 +72,15 @@ print(f"Sending {len(english)} sentences to {MODEL}...\n")
 raw = translate_batch(english, system=guide)
 translations = parse_translations(raw, len(pairs))
 
+scores = []
 for i, (en, ref_tok) in enumerate(pairs):
     model_tok = translations[i] if i < len(translations) else "(missing)"
+    sc = score_pair(model_tok, ref_tok)
+    scores.append(sc)
     print(f"en:       {en}")
     print(f"model:    {model_tok}")
     print(f"dataset:  {ref_tok}")
+    print(f"score:    {sc:.2f}")
     print()
+
+print(f"mean score: {sum(scores)/len(scores):.3f}  (token Jaccard over {len(scores)} sentences)")
